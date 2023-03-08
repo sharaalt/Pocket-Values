@@ -1,2 +1,2 @@
 # Pocket Values
-<h1>Here is a new plugin Pocket Values</h1>
+<p>Here is a new plugin Pocket Values</p>
