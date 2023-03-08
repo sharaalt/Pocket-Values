@@ -1,0 +1,15 @@
+table {
+    border-collapse: collapse;
+}
+
+th {
+    border: 1px solid black;
+    padding: 15px 100px;
+}
+
+.container-main {
+  height: 222px;
+  overflow-y: scroll;
+  display: inline-block;
+  background-color: rgb(75, 28, 28);
+}

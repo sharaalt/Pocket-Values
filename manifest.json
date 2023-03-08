@@ -1,0 +1,14 @@
+{
+  "manifest_version": 3,
+  "name": "Pocket Values",
+  "description": "Test Extension",
+  "version": "1.0",
+  "action": {
+    "default_popup": "value.html",
+    "default_title": "Pocket Values"
+  },
+  "content_scripts": [ {
+    "css": [ "styling.css" ],
+    "matches": [ "http://www.google.com/*" ]
+ } ]
+}
