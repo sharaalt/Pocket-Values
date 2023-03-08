@@ -1,7 +1,7 @@
 {
   "manifest_version": 3,
   "name": "Pocket Values",
-  "description": "Test Extension",
+  "description": "An extension to see values and demands of car's on jailbreak.",
   "version": "1.0",
   "action": {
     "default_popup": "value.html",
