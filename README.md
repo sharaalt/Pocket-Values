@@ -1,4 +1,5 @@
 [**Our discord server**](discord.gg/test)
+******
 [**How to install**](https://github.com/sharaalt/Pocket-Values#how-to-install)
 
 # Pocket Values
